@@ -12,7 +12,7 @@ const projects = [
     tags: ['MERN Stack', 'REST APIs', 'JWT Auth', '500+ users'],
     demoLink: '#',
     githubLink: '#',
-    image: 'https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&q=80&ixlib=rb-4.0.3'
+    image: '/hotel.png'
   },
   {
     title: 'Vasudeva Stores Website',
@@ -21,7 +21,7 @@ const projects = [
     tags: ['React', 'MongoDB', 'Login/Signup', 'Search', 'Cart'],
     demoLink: '#',
     githubLink: '#',
-    image: 'https://images.unsplash.com/photo-1588964895597-cfccd6e2dbf9?auto=format&fit=crop&q=80&ixlib=rb-4.0.3'
+    image: '/store.png'
   },
   {
     title: 'Notes App',
@@ -30,7 +30,7 @@ const projects = [
     tags: ['React', 'Local Storage', 'CRUD Operations'],
     demoLink: '#',
     githubLink: '#',
-    image: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&ixlib=rb-4.0.3'
+    image: '/eaodfoa.png'
   }
 ];
 
