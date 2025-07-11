@@ -7,6 +7,18 @@ const achievements = [
     title: '354+ GFG & 150+ LeetCode problems solved',
     description: 'Consistently solving algorithm and data structure problems on competitive coding platforms.'
   },
+   {
+    title: "TCS iON Career Edge – Young Professional",
+    description: "Completed a career readiness program including AI, communication skills, resume writing, and soft skills. (July 2025)"
+  },
+  {
+    title: "Naukri Campus AINCAT 2025 Participant",
+    description: "Participated in India's biggest career aptitude test powered by DoSelect and Naukri Campus. (May 2025)"
+  },
+  {
+    title: "Front-End Web Developer – Infosys Certification",
+    description: "Earned certification for successfully completing the Front-End Web Developer program offered by Infosys Springboard. (May 2025)"
+  },
   {
     title: 'Completed Kedarkantha Trek',
     description: 'Successfully completed a challenging trek to 12,500 ft altitude over 3 days and 2 nights.'
