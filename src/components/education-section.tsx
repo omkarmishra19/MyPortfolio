@@ -7,7 +7,7 @@ const education = [
     institution: 'Lovely Professional University',
     degree: 'B.Tech in Computer Science Engineering',
     period: '2022–2026',
-    score: 'CGPA: 7.01',
+    score: 'CGPA: 7.28',
     icon: GraduationCap,
   },
   {
